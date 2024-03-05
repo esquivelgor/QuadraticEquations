@@ -4,9 +4,15 @@
 
 Simple C++ program to solve quadratic equations of the form \(ax^2 + bx + c = 0\) and output the roots. The program takes three command-line arguments representing the coefficients \(a\), \(b\), and \(c\).
 
+## Requirements
+
+- Essential build packages
+- cmake 3.10
+- GNU make 4.4.1
+
 ## Usage
 
-First, we need to build and compile our program:
+First, we need to build and compile our program in the *QuadraticEquations* directory:
 
 ```bash
 make
@@ -16,6 +22,12 @@ Run the program by providing the coefficients as command-line arguments, replace
 
 ```bash
 ./quadraticEquation <a> <b> <c> 
+```
+
+To clear your environment you can use:
+
+```bash
+make clear 
 ```
 
 ## Example
