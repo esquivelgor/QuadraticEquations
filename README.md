@@ -2,7 +2,8 @@
 
 ## Overview
 
-Simple C++ program to solve quadratic equations of the form \(ax^2 + bx + c = 0\) and output the roots. The program takes three command-line arguments representing the coefficients \(a\), \(b\), and \(c\).
+Simple C++ program to solve quadratic equations of the form $ax^2 + bx + c = 0$ and output the roots. The program takes three command-line arguments representing the coefficients $a$, $b$, and 
+$c$.
 
 ## Requirements
 
