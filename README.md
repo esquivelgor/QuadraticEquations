@@ -24,7 +24,7 @@ Run the program by providing the coefficients as command-line arguments, replace
    - The program begins by checking if the correct number of parameters is provided. If not, it prompts the user to retry with the correct input.
 
 2. **Quadratic Formula:**
-   - The algorithm employs the quadratic formula to calculate the roots of the quadratic equation: ![Quadratic Formula](image.png)
+   - The algorithm employs the quadratic formula to calculate the roots of the quadratic equation: ![Quadratic Formula](./image.png)
 
 3. **Discriminant Calculation:**
    - As the first computation step, the program calculates the discriminant ($\Delta$) using the formula $(b^2 - 4ac)$, which determines the nature of the roots.
