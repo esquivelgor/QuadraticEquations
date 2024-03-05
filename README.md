@@ -18,6 +18,17 @@ Run the program by providing the coefficients as command-line arguments, replace
 ./quadraticEquation <a> <b> <c> 
 ```
 
+## Example
+
+For the equation: $u^2-5u-14=0$
+```bash
+./quadraticEquation 1 -5 -14 
+```
+Output:
+```bash
+{7, -2}
+```
+
 ## Algorithm Details
 
 1. **Input Validation:**
